@@ -1,1 +1,2 @@
 kickmyass
+dodavanje nove metode
