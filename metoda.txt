@@ -1,1 +1,12 @@
 metoda
+Scrum se bavi iskljuèivo 
+upravljanjem projektima, a ne propisuje nikakve inženjerske prakse,
+dok je kod XP-a obratna situacija.  
+To ih zapravo èini vrlo pogodnim za paralelno korištenje
+
+XP
+ komunikacija, povratna 
+informacija, jednostavnost i hrabrost – 
+XP iz njih izgraðuje skup od dvanaest 
+“najboljih” praksi koje bi trebalo koristiti u 
+softverskim projektima.
