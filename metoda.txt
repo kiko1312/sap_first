@@ -3,7 +3,7 @@ Scrum se bavi iskljuèivo
 upravljanjem projektima, a ne propisuje nikakve inženjerske prakse,
 dok je kod XP-a obratna situacija.  
 To ih zapravo èini vrlo pogodnim za paralelno korištenje
-
+novi red
 XP
  komunikacija, povratna 
 informacija, jednostavnost i hrabrost – 
